@@ -171,6 +171,7 @@ textarea {
 }
 
 .input-wrapper textarea {
+  padding: 5px 10px;
   height: 167px;
 }
 
