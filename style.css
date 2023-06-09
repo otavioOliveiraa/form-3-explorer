@@ -256,4 +256,10 @@ textarea {
   font-size: 20px;
   line-height: 26px;
   color: #ffffff;
+  transition: .2s;
+}
+
+.button-wrapper input:hover {
+  background: #e06355;
+  cursor: pointer;
 }
